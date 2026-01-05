@@ -12,7 +12,7 @@ services:
       - django_app
     networks:
       - notes-app-nw
-
+      
   django_app:
     image: akashbora02/notes-app:latest
     container_name: "django_cont"

@@ -211,7 +211,7 @@ GitHub:
 https://github.com/Akashbora02
 
 LinkedIn:
-(Add your LinkedIn URL)
+https://www.linkedin.com/in/akash-bora/
 
 ---
 
